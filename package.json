@@ -1,0 +1,25 @@
+{
+  "name": "@damo/retry",
+  "version": "1.0.0",
+  "description": "retry 函数是一个实用工具方法，用于执行带有重试机制的 Promise 函数。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wyyxdgm/retry.git"
+  },
+  "keywords": [
+    "retry",
+    "times",
+    "interval",
+    "callback"
+  ],
+  "author": "wyyxdgm@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wyyxdgm/retry/issues"
+  },
+  "homepage": "https://github.com/wyyxdgm/retry#readme"
+}
